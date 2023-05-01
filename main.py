@@ -5,9 +5,7 @@ from grafika import obesenec
 
 
 def main():
-    print("-----------------------")
-    print("VÍTEJ VE HŘE OBĚŠENEC!!")
-    print("-----------------------")
+    
     zivoty = 7
     hra_bezi = True
     hra(hra_bezi, zivoty)
